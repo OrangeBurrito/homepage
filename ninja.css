@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body {
+	background: white;
+	color: salmon;
+	font-family: PT Sans;
+}
+
+div {
+	color: cornflowerblue;
+}
+
+p {
+	color: lightseagreen;
+}

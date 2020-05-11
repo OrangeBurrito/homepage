@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+body {
+	background: slategray;
+	color: white;
+	margin: 0;
+	font-family: PT Sans;
+}
+
+header {
+	padding: 1rem;
+}
+
+#header {
+	font-family: Seaweed Script;
+	font-size: 3rem;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+	font-family: Jost;
+	font-size: 1.2rem;
+	padding-right: 1rem;
+	background: white;
+	color: slategray;
+}
+
+p {
+	font-family: PT Sans;
+	font-size: 1rem;
+}
+
+#cheese {
+	color: #FFA600;
+}
+
+img {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+}
